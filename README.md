@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MikeMcmanus95/FireKicks.svg?branch=master)](https://travis-ci.org/MikeMcmanus95/FireKicks)
+
 <h1 align="center">Firekicks</h1>
 <p align="center">
   A fullstack e-commerce site built with React, Redux, Express, Node and PostgreSQL. Check out the deployed version <a href="https://fire-kicks.herokuapp.com">here!</a>
